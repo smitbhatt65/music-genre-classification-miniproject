@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background-image: url(https://www.wallpaperup.com/uploads/wallpapers/2012/10/27/20839/8c7d6514705e24f8f7bcbbd854782fe3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+
+}
+
+div {
+    display: inline-block;
+    width: 300px;
+    border: 15px solid white;
+    padding: 50px;
+    margin: 200px;
+}
+
+button {
+    display: inline-block;
+    padding: 10px 20px;
+}
+
